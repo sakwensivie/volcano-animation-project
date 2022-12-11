@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="JEDl`x9(fB7igCc-4lkj" x="225" y="20"><statement name="HANDLER"><block type="device_show_leds" id="CggO@DY~-%Ap2UOqSY9J"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="wdDZ,jZ1tF@V#{{zsAEE"><value name="text"><shadow type="text" id="?%_KXXIAd.)Q![/(Y$p$"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_show_leds" id="$lN-%t]27^;6$`[xs~)/"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="D{8_O:l{8}JO0`TrkwxB"><value name="text"><shadow type="text" id="aS(e?yfgU:vLZzXq1j=)"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_show_leds" id="%6W=*dm+D#HyusWKVDug"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="UZA*4rT)pLoZgj@C$/C4"><value name="text"><shadow type="text" id="Q[qyanF#*v#JUrrzO~,n"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_show_leds" id="/Vhn)_Fs0Q4rT/SUTTw!"><field name="LEDS">`
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="%D.u7X3Kr5zg:PkFaJk4"><value name="text"><shadow type="text" id="VPoln}yk?WU5R{ewRGDh"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_show_leds" id="U7_F}f=Jp!G0tvxE/baS"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="sOj*{jJr*MrSTJh=uSf:"><value name="text"><shadow type="text" id="#icKEt;C6!@@U}P-M+bo"><field name="TEXT">Hello!</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
